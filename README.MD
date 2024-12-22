@@ -24,7 +24,7 @@ npm install animateit
 
 
 2. Добавьте необходимые классы анимации в CSS:
-
+```
 .my-element {
     opacity: 0; /* Начальное состояние для fadeIn */
     transform: translateX(-100%); /* Начальное состояние для slideIn */
