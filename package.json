@@ -1,0 +1,9 @@
+{
+  "name": "AnimateIt",
+  "version": "1.0.0",
+  "description": "Мощный инструмент для создания плавных CSS-анимаций с помощью JavaScript.",
+  "main": "AnimateIt.js",
+  "keywords": ["animation", "css", "javascript"],
+  "author": "Ваше Имя",
+  "license": "MIT"
+}
