@@ -12,7 +12,7 @@ npm install animateit
 ▎Использование
 
 1. Подключите библиотеку в ваш проект:
-
+```
 <script type="module">
     import { AnimateIt } from './AnimateIt.js';
 
@@ -21,7 +21,7 @@ npm install animateit
     // Запускаем анимацию
     animator.animate('fadeIn', '2s');
 </script>
-
+```
 
 2. Добавьте необходимые классы анимации в CSS:
 ```
